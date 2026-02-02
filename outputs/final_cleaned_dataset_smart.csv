@@ -1,0 +1,6 @@
+id,name,age,gender,email,income,city,email_raw,signup_year,signup_month,signup_day,email_name_conflict
+6,John,35.0,male,john@gmail.com,82000.0,New York,john@gmail.com,2024.0,5.0,12.0,False
+7,Kavya,29.0,female,kavya@gmail.com,70000.0,Delhi,kavya@gmail.com,2024.0,6.0,1.0,False
+1,Paras,21.0,male,paras@gmail.com,50000.0,Delhi,paras@gmail.com,2024.0,1.0,15.0,False
+9,Rahul,32.0,male,rahul@gmail.com,68000.0,Pune,rahul@gmail.com,2024.0,4.5,11.0,False
+5,Sneha,25.0,female,sneha@gmail.com,75000.0,Delhi,sneha@gmail.com,2024.0,4.0,10.0,False

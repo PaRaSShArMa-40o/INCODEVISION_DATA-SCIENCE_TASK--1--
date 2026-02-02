@@ -1,0 +1,2 @@
+raw_rows,raw_cols,clean_rows,clean_cols,rows_removed,pct_removed,resolved_email_name_conflicts_rows,dropped_identity_rows,dropped_duplicate_email_rows_rows,clean_total_missing_cells
+10,8,5,12,5,50.0,0,3,1,0

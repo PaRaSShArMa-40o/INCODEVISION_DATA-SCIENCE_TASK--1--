@@ -1,0 +1,2 @@
+id,name,age,gender,email,income,city,email_raw,signup_year,signup_month,signup_day,email_name_conflict,_quality_score,_signup_sort
+2,Paras,21.0,male,paras@gmail.com,50000.0,Delhi,paras@gmail.com,,,,False,4,0

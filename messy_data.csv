@@ -1,0 +1,8 @@
+Name,Age,Join_Date,Salary,Department
+Alice,25.0,2023-01-01,"$50,000",HR
+Bob,30.0,2023/01/02,$60000,IT
+Alice,25.0,2023-01-01,"$50,000",HR
+David,1050.0,2023-01-04,$45000,Finance
+Eve,22.0,not_a_date,"$52,000", it 
+Frank,,2023-01-06,60000,IT
+,29.0,2023-01-07,$58000,Finance

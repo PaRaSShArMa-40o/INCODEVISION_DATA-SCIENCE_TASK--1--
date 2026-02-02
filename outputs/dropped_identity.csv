@@ -1,0 +1,4 @@
+id,name,age,gender,email,income,city,email_raw,signup_year,signup_month,signup_day,email_name_conflict
+3,Riya,,female,,60000.0,Mumbai,riya@gmail,,,,False
+4,Aman,,male,,,Bangalore,,2024.0,3.0,5.0,False
+8,,40.0,male,,65000.0,Kolkata,,2024.0,6.0,15.0,False

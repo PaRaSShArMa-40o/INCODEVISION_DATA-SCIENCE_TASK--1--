@@ -1,0 +1,11 @@
+id,name,age,gender,email,signup_date,income,city
+1,Paras,21,Male,paras@gmail.com,2024-01-15,50000,Delhi
+2,paras  ,21,male,paras@gmail.com,15/01/2024,50000,delhi
+3,Riya,,Female,riya@gmail,2024/02/20,60000,Mumbai
+4,Aman,twenty,M,,2024-03-05,not_known,Bangalore
+5,Sneha,25,Female,sneha@gmail.com,2024-04-10,75000,Delhi
+5,Sneha,25,Female,sneha@gmail.com,2024-04-10,75000,Delhi
+6,John,35,Male,john@gmail.com,2024-05-12,82000,New York
+7,Kavya,29,FEMALE,kavya@gmail.com,2024-06-01,70000, delhi
+8,,40,Male,unknown,2024-06-15,65000,Kolkata
+9,Rahul,32,M,rahul@gmail.com,,68000,Pune
